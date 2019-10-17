@@ -1,3 +1,4 @@
+# On créé une classe spécifique pour les cases du plateau
 class BoardCase
     attr_accessor :valeur, :num_case
 
